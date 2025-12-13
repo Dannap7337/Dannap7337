@@ -14,7 +14,7 @@ I'm a passionate developer focusing on Data Science, Logic, and Space Technology
 
 ### 🔭 Currently Working on...
 - 🚌 **University Transport Optimization:** Analyzing logistic data to improve student mobility.
-- 🌌 **Space Data Analysis:** Learning how to process astronomical data (Target: INAOE).
+- 🌌 **Space Data Analysis:** Learning how to process astronomical data.
 - 🧠 **Logic & Calculus:** Solving complex problems with Prolog and Python.
 
 ### 📈 My GitHub Stats
