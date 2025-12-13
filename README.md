@@ -1,7 +1,7 @@
 # Hi there, I'm Danna! 👋
 
 ### 👩‍💻 Data Science Engineering Student @ BUAP 🇲🇽
-I'm a passionate developer focusing on Data Science, Logic, and Space Technology. Currently aiming for a research exchange in Europe! ✈️
+I'm a passionate developer focusing on Data Science, Logic, and Space Technology.
 
 ---
 
